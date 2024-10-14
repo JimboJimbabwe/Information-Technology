@@ -1,0 +1,446 @@
+{
+  "Advanced Topics": [
+    {
+      "name": "llm-attacks",
+      "techniques": []
+    },
+    {
+      "name": "graphql",
+      "techniques": []
+    },
+    {
+      "name": "deserialization",
+      "techniques": [
+        "App_Func_Exploit",
+        "Data_Type_Mod",
+        "Deserialization_Exploits",
+        "Java_Commons_Exploit",
+        "Java_Deser_Dev",
+        "PHP_Deser_Exploit",
+        "PHP_Object_Inject",
+        "Prebuilt_Gadget_Chain",
+        "Ruby_Gadget_Chain",
+        "Serialized_Obj_Mod"
+      ]
+    },
+    {
+      "name": "server-side-template-injection",
+      "techniques": [
+        "Basic_Code_Context",
+        "Basic_Template_Injection",
+        "Constructing_Attack",
+        "Custom_Exploit_Lab",
+        "Documentation_Guide_Lab",
+        "Sandbox_Environment_Test",
+        "Server_Side_Exploiting",
+        "Unknown_Language_Hack",
+        "User_Supplied_Objects"
+      ]
+    },
+    {
+      "name": "web-cache-poisoning",
+      "techniques": []
+    },
+    {
+      "name": "host-header",
+      "techniques": [
+        "1. Host Header SSRF",
+        "10. Authentication Bypass Lab",
+        "10_Authentication_Bypass_Lab",
+        "11. Host Header Exploits",
+        "11_Host_Header_Exploits",
+        "12. Dangling Markup Poisoning",
+        "12_Dangling_Markup_Poisoning",
+        "13. Virtual Host Brute Force",
+        "13_Virtual_Host_Brute_Force",
+        "14. Routing SSRF Lab",
+        "14_Routing_SSRF_Lab",
+        "15. Ambiguous Request Poisoning",
+        "15_Ambiguous_Request_Poisoning",
+        "1_Host_Header_SSRF",
+        "2. Routing SSRF Exploit",
+        "2_Routing_SSRF_Exploit",
+        "3. Connection State Bypass",
+        "3_Connection_State_Bypass",
+        "4. Password Reset Poisoning",
+        "4_Password_Reset_Poisoning",
+        "5. Classic Server Vulnerabilities",
+        "5_Classic_Server_Vulnerabilities",
+        "6. Basic Password Reset",
+        "6_Basic_Password_Reset",
+        "7. Web Cache Poisoning",
+        "7_Web_Cache_Poisoning",
+        "8. Restricted Functionality Access",
+        "8_Restricted_Functionality_Access",
+        "9. Connection State Attacks",
+        "9_Connection_State_Attacks"
+      ]
+    },
+    {
+      "name": "request-smuggling",
+      "techniques": [
+        "Basic_CL_TE",
+        "Basic_TE_CL",
+        "Bypass_Access_Controls",
+        "Client_Side_Desync",
+        "Confirming_TE_CL",
+        "CRLF_Injection_Lab",
+        "Front_End_Controls",
+        "HTTP2_Downgrading_Lab",
+        "HTTP2_Exclusive_Vectors",
+        "Obfuscating_TE_Header",
+        "Open_Redirect_Exploit",
+        "Pause_Based_Desync",
+        "Request_Smuggling_Lab",
+        "Request_Splitting_Via",
+        "Request_Tunnelling_Lab",
+        "Response_Queue_Poisoning",
+        "Server_Side_Pause",
+        "TE_CL_Behavior",
+        "Web_Cache_Deception",
+        "Web_Security_Guide"
+      ]
+    },
+    {
+      "name": "oauth",
+      "techniques": [
+        "1. OAuth Security Guide",
+        "10. Authorization Code Grant",
+        "10_Authorization_Code_Grant",
+        "11. Stealing Access Tokens",
+        "11_Stealing_Access_Tokens",
+        "12. Proxy Page Attack",
+        "12_Proxy_Page_Attack",
+        "13. OpenID Security Guide",
+        "13_OpenID_Security_Guide",
+        "14. SSRF via OpenID",
+        "14_SSRF_via_OpenID",
+        "15. Forced Profile Linking",
+        "15_Forced_Profile_Linking",
+        "16. Account Hijacking Lab",
+        "16_Account_Hijacking_Lab",
+        "1_OAuth_Security_Guide",
+        "2. Grant Type Options",
+        "2_Grant_Type_Options",
+        "3. Implicit Flow",
+        "3_Implicit_Flow",
+        "4. Preventing OAuth Abuse",
+        "4_Preventing_OAuth_Abuse",
+        "5. OAuth Authentication Explained",
+        "5_OAuth_Authentication_Explained",
+        "6. OAuth Scopes Defined",
+        "6_OAuth_Scopes_Defined",
+        "7. OpenID Connect Vulnerabilities",
+        "7_OpenID_Connect_Vulnerabilities",
+        "8. OAuth Bypass Lab",
+        "8_OAuth_Bypass_Lab",
+        "9. How OAuth Works",
+        "9_How_OAuth_Works"
+      ]
+    },
+    {
+      "name": "jwt",
+      "techniques": [
+        "Algorithm_Confusion_Bypass",
+        "Algorithm_Confusion_Guide",
+        "Flawed_Verification_Bypass",
+        "JWKU_Header_Injection",
+        "JWK_Header_Injection",
+        "JWT_Brute_Force",
+        "JWT_Fundamentals",
+        "Kid_Header_Traversal",
+        "No_Exposed_Key_Bypass",
+        "Unverified_Signature_Bypass",
+        "Weak_Signing_Key"
+      ]
+    },
+    {
+      "name": "prototype-pollution",
+      "techniques": []
+    },
+    {
+      "name": "essential-skills",
+      "techniques": []
+    }
+  ],
+  "Client-Side Topics": [
+    {
+      "name": "cross-site-scripting",
+      "techniques": [
+        "AngularJS_Expression",
+        "Canonical_Link_Tag",
+        "Capturing_Passwords",
+        "Cheat_Sheet",
+        "Cheat_Sheet_PDF",
+        "ClientS",
+        "ClientSide_Template_Injection_Angular_Sandbox_Escape_Without_Strings",
+        "Content_Security_Policy",
+        "Dangling_Markup",
+        "Document_Write_Sink_Inside_Select_Element",
+        "DOM_Write_Sink",
+        "DOM_XSS_Reflected",
+        "DOM_XSS_Stored",
+        "Event_Handlers_and_Href_Attributes_Blocked",
+        "Href_Attribute_Double_Quotes_HTML_Encoded",
+        "HTML_Context_with_All_Standard_Tags_Blocked",
+        "InnerHTML_Sink",
+        "JavaScript_String_Single_Quote_Backslash_Escaped",
+        "JavaScript_Template_Literal_Angle_Brackets_Single_Double_Quotes_Backslash_Backticks_Escaped",
+        "JavaScript_URL_Blocked",
+        "JQuery_Hash_Change_Event",
+        "JQuery_Href_Attribute_Sink",
+        "OnClick_Event_Angle_Brackets_Double_Quotes_HTML_Encoded_Single_Quotes_Backslash_Escaped",
+        "Perform_CSRF",
+        "Preventing_XSS",
+        "Reflected_HTML_Context_Nothing_Encoded",
+        "Reflected_XSS",
+        "Some_SVG_Markup_Allowed",
+        "Stealing_Cookies",
+        "Stored_HTML_Context_Nothing_Encoded",
+        "Stored_XSS"
+      ]
+    },
+    {
+      "name": "csrf",
+      "techniques": [
+        "BasicCSRF",
+        "CSRF_Token_Bypass",
+        "No_Defenses_Lab",
+        "Preventing_CSRF_Attacks",
+        "Referer_Validation_Break",
+        "SameSite_Lax_Override",
+        "SameSite_Strict_Bypass",
+        "Token_Duplicated_Cookie",
+        "Token_Not_Tied",
+        "XSS_vs_CSRF"
+      ]
+    },
+    {
+      "name": "cors",
+      "techniques": [
+        "Access_Control_Origin",
+        "Basic_Origin_Reflection",
+        "Breaking_HTTPS_Attack",
+        "CORS_Server_Header",
+        "Null_Origin_Whitelist",
+        "Same_Origin_Policy"
+      ]
+    },
+    {
+      "name": "clickjacking",
+      "techniques": []
+    },
+    {
+      "name": "dom-based",
+      "techniques": []
+    },
+    {
+      "name": "websockets",
+      "techniques": []
+    }
+  ],
+  "Server-Side Topics": [
+    {
+      "name": "sql-injection",
+      "techniques": [
+        "Blind_Conditional_Errors",
+        "Column_Number_Detection",
+        "Conditional_Responses_Lab",
+        "Database_Contents_Listing",
+        "Filter_Bypass_XML",
+        "Find_Column_Text",
+        "Hidden_Data_Retrieval",
+        "Listing_Database_Contents",
+        "Login_Bypass_Lab",
+        "Out_of_Band_Exfil",
+        "Out_of_Band_Lab",
+        "Preventing_SQL_Injection",
+        "Querying_Database_Oracle",
+        "Querying_Database_Version",
+        "SQL_Injection_Basics",
+        "SQL_Injection_Cheat_Sheet",
+        "SQL_Retrieve_Data",
+        "Time_Delays_Info_Retrieval",
+        "Time_Delay_Attacks",
+        "Union_Attacks_Lab",
+        "Visible_Error_Based"
+      ]
+    },
+    {
+      "name": "authentication",
+      "techniques": [
+        "2FA_Bypass_using_Brute_Force",
+        "2FA_Simple_Bypass",
+        "Broken_Bruteforce_Protection_IP_Block",
+        "Broken_Bruteforce_Protection_Multiple_Credentials",
+        "Broken_Password_Logic",
+        "Brute_Force_Stay_Logged_In",
+        "MultiFactor_Authentication",
+        "Offline_Password_Cracking",
+        "Password_Brute_Force_via_Change",
+        "Password_Reset_Poisoning",
+        "Securing_Authentication",
+        "Simple_Password_Authentication",
+        "Usernames_and_Authentication",
+        "Username_Enumeration_via_Different_Responses",
+        "Username_Enumeration_via_Lock",
+        "Username_Enumeration_via_Responses"
+      ]
+    },
+    {
+      "name": "file-path-traversal",
+      "techniques": [
+        "Absolute_Path_Bypass",
+        "Null_Byte_Validation",
+        "Simple_File_Traversal",
+        "Stripped_NonRecursive",
+        "Superfluous_URL_Decode",
+        "Validate_Start_Path"
+      ]
+    },
+    {
+      "name": "os-command-injection",
+      "techniques": [
+        "Blind_Output_Redir",
+        "Blind_Out_of_Band",
+        "Blind_Time_Delays",
+        "Simple_OS_Injection"
+      ]
+    },
+    {
+      "name": "logic-flaws",
+      "techniques": [
+        "Authentication_State_Bypass",
+        "Business_Rule_Enforcement",
+        "Client_Side_Trust_Excessive",
+        "Dual_Use_Endpoint_Weak",
+        "Encryption_Oracle_Bypass",
+        "High_Level_Logic_Flaw",
+        "Inconsistent_Security_Controls",
+        "Infinite_Money_Exploit",
+        "Logic_Flaw_Examples",
+        "Logic_Flaw_Handling",
+        "Low_Level_Logic_Flaw",
+        "Workflow_Validation_Insufficient"
+      ]
+    },
+    {
+      "name": "information-disclosure",
+      "techniques": [
+        "Authentication_Leak",
+        "Backup_File_Disclosure",
+        "Debug_Page_Leak",
+        "Error_Message_Leak",
+        "Information_Disclosure_Lab",
+        "Version_Control_Leak"
+      ]
+    },
+    {
+      "name": "access-control",
+      "techniques": [
+        "IDOR_Vulnerability",
+        "Insecure_Direct_Refs",
+        "Method_Based_Bypass",
+        "Multi_Step_Access",
+        "Password_Disclosure_Leak",
+        "Redirect_Data_Leak",
+        "Referer_Based_Access",
+        "Request_Param_Controlled",
+        "Request_Param_Role",
+        "Request_Param_User",
+        "Security_Models_Guide",
+        "Unpredictable_Admin_URL",
+        "Unprotected_Admin_Func",
+        "URL_Based_Bypass",
+        "User_Role_Modifiable"
+      ]
+    },
+    {
+      "name": "file-upload",
+      "techniques": [
+        "10_Polyglot_Web_Shell_Upload",
+        "11_Flawed_File_Type_Validation",
+        "12_Static_File_Handling",
+        "13_File_Upload_Race_Conditions",
+        "14_Insufficient_Blacklisting",
+        "15_Remote_Code_Execution",
+        "16_Server_Configuration_Override",
+        "17_Preventing_File_Execution",
+        "18_Parsing_Vulnerabilities",
+        "19_File_Upload_Impact",
+        "1_File_Upload_Web_Shell",
+        "20_Flawed_File_Validation_Exploitation",
+        "21_Obfuscated_File_Extension_Upload",
+        "22_Malicious_Client_Scripts",
+        "23_File_Upload_Origins",
+        "24_Race_Condition_Web_Shell",
+        "2_File_Upload_Security",
+        "3_URL_File_Uploads",
+        "4_Content_Type_Bypass",
+        "5_PUT_File_Upload",
+        "6_Unrestricted_File_Uploads",
+        "7_Extension_Blacklist_Bypass",
+        "8_Flawed_File_Validation",
+        "9_Obfuscated_File_Extensions"
+      ]
+    },
+    {
+      "name": "race-conditions",
+      "techniques": []
+    },
+    {
+      "name": "ssrf",
+      "techniques": [
+        "Basic_SSRF_Backend",
+        "Basic_SSRF_Localhost",
+        "OutofBand_Detection",
+        "Shellshock_Exploitation",
+        "SSRF_Blacklist",
+        "SSRF_Filter_Bypass",
+        "SSRF_Fundamentals",
+        "SSRF_Whitelist"
+      ]
+    },
+    {
+      "name": "xxe",
+      "techniques": [
+        "Blind_Data_Exfiltration",
+        "Blind_Xxe_Retrieval",
+        "Error_Message_Xxe",
+        "File_Retrieval_Xxe",
+        "File_Upload_Xxe",
+        "Local_Dtd_Repurposing",
+        "Out_Of_Band_Xxe",
+        "Ssrf_Xxe_Attacks",
+        "Ssrf_Xxe_Exploit",
+        "Xinclude_Attack_Lab",
+        "Xml_Entity_Exploit",
+        "Xxe_Blind_Attack"
+      ]
+    },
+    {
+      "name": "nosql-injection",
+      "techniques": [
+        "NoSQL_Auth_Bypass",
+        "NoSQL_Database_Guide",
+        "NoSQL_Data_Extract",
+        "NoSQL_Detection_Lab",
+        "NoSQL_Injection_Lab"
+      ]
+    },
+    {
+      "name": "api-testing",
+      "techniques": [
+        "API_Security_Guide",
+        "Exploit_API_Documentation",
+        "Exploit_Mass_Assignment",
+        "Hidden_API_Parameters",
+        "Mass_Assignment_Flaw",
+        "Query_String_Hack",
+        "Server_Side_Pollution",
+        "Top_10_API_Vulns",
+        "Unused_API_Endpoint"
+      ]
+    }
+  ]
+}

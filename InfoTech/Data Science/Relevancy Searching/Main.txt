@@ -1,0 +1,124 @@
+import re
+import textwrap
+from collections import Counter
+import math
+
+# ANSI escape codes for colors
+GREEN = '\033[92m'
+RESET = '\033[0m'
+
+
+def preprocess_text(text):
+    return re.findall(r'\w+', text.lower())
+
+
+def get_ngrams(words, n):
+    return [tuple(words[i:i + n]) for i in range(len(words) - n + 1)]
+
+
+def calculate_tf_idf(text_words, query_words):
+    text_word_count = Counter(text_words)
+    query_word_count = Counter(query_words)
+
+    tf_idf_scores = {}
+    for word in set(text_words):
+        tf = text_word_count[word] / len(text_words)
+        idf = math.log(len(text_words) / (1 + query_word_count[word]))
+        tf_idf_scores[word] = tf * idf
+
+    return tf_idf_scores
+
+
+def calculate_relevance(text_words, query_words, window_size=100):
+    relevance_scores = {}
+    tf_idf_scores = calculate_tf_idf(text_words, query_words)
+
+    for n in range(1, 4):  # Consider 1-grams, 2-grams, and 3-grams
+        text_ngrams = get_ngrams(text_words, n)
+        query_ngrams = get_ngrams(query_words, n)
+
+        for i, ngram in enumerate(text_ngrams):
+            if ngram in query_ngrams:
+                start = max(0, i - window_size)
+                end = min(len(text_words), i + window_size + 1)
+                score = sum(tf_idf_scores.get(word, 0) for word in ngram) * (
+                            n ** 2)  # Give more weight to longer n-grams
+                for j in range(start, end):
+                    relevance_scores[j] = relevance_scores.get(j, 0) + score / (abs(i - j) + 1)
+
+    return relevance_scores
+
+
+def find_most_relevant_segment(text_words, query, segment_length=50):
+    query_words = preprocess_text(query)
+    relevance_scores = calculate_relevance(text_words, query_words)
+    total_relevance = sum(relevance_scores.get(i, 0) for i in range(segment_length))
+    max_relevance = total_relevance
+    max_start = 0
+
+    for i in range(1, len(text_words) - segment_length + 1):
+        total_relevance = total_relevance - relevance_scores.get(i - 1, 0) + relevance_scores.get(
+            i + segment_length - 1, 0)
+        if total_relevance > max_relevance:
+            max_relevance = total_relevance
+            max_start = i
+
+    return text_words[max_start:max_start + segment_length], max_relevance
+
+
+def read_file(file_path):
+    with open(file_path, 'r', encoding='utf-8', errors='ignore') as file:
+        return file.read()
+
+
+def highlight_words(text, words_to_highlight):
+    highlighted_text = []
+    for word in text:
+        if word.lower() in words_to_highlight:
+            highlighted_text.append(f"{GREEN}{word}{RESET}")
+        else:
+            highlighted_text.append(word)
+    return ' '.join(highlighted_text)
+
+
+def wrap_text(text, width=80):
+    return '\n'.join(textwrap.wrap(text, width))
+
+
+def search_file(file_path, query):
+    try:
+        full_text = read_file(file_path)
+        text_words = preprocess_text(full_text)
+        segment, relevance = find_most_relevant_segment(text_words, query)
+        return segment, relevance
+    except Exception as e:
+        print(f"Error processing file {file_path}: {e}")
+        return None, 0
+
+
+def main():
+    # Hardcode the file paths here
+    text_file_path = "rel.txt"
+    query_file_path = "transcription.txt"
+
+    # Read the query from the static file
+    query = read_file(query_file_path).strip()
+
+    segment, relevance = search_file(text_file_path, query)
+
+    if segment:
+        print(f"\nMost relevant result for query '{query}':\n")
+        print(f"Relevance score: {relevance:.2f}")
+
+        # Highlight words from the query in the result
+        query_words = set(preprocess_text(query))
+        highlighted_segment = highlight_words(segment, query_words)
+
+        wrapped_result = wrap_text(highlighted_segment)
+        print(f"Most relevant 50 words:\n\n{wrapped_result}\n")
+    else:
+        print("No relevant text found in the file.")
+
+
+if __name__ == "__main__":
+    main()

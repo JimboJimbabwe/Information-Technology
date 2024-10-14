@@ -1,0 +1,472 @@
+{
+  "Pentesting JDWP - Java Debug Wire Protocol": {
+    "ports": "",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_JDWP_-_Java_Debug_Wire_Protocol"
+  },
+  "Pentesting Printers": {
+    "ports": "",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Printers"
+  },
+  "Pentesting SAP": {
+    "ports": "",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-sap",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_SAP"
+  },
+  "Pentesting VoIP": {
+    "ports": "",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-voip",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_VoIP"
+  },
+  "Pentesting Remote GdbServer": {
+    "ports": "",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Remote_GdbServer"
+  },
+  "Pentesting Echo": {
+    "ports": "7/tcp",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/7-tcp-udp-pentesting-echo",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Echo"
+  },
+  "Pentesting FTP": {
+    "ports": "21",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ftp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_FTP"
+  },
+  "Pentesting SSH/SFTP": {
+    "ports": "22",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ssh",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_SSH/SFTP"
+  },
+  "Pentesting Telnet": {
+    "ports": "23",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-telnet",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Telnet"
+  },
+  "Pentesting SMTP/s": {
+    "ports": "25,465,587",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-smtp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_SMTP/s"
+  },
+  "Pentesting WHOIS": {
+    "ports": "43",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/43-pentesting-whois",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_WHOIS"
+  },
+  "Pentesting TACACS+": {
+    "ports": "49",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/49-pentesting-tacacs+",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_TACACS+"
+  },
+  "Pentesting DNS": {
+    "ports": "53",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-dns",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_DNS"
+  },
+  "tracker": {
+    "ports": "69",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/tracker"
+  },
+  "Pentesting Finger": {
+    "ports": "79",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-finger",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Finger"
+  },
+  "Pentesting Web Methodology": {
+    "ports": "80,443",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Web_Methodology"
+  },
+  "Pentesting Kerberos": {
+    "ports": "88",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Kerberos"
+  },
+  "Pentesting POP": {
+    "ports": "110,995",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-pop",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_POP"
+  },
+  "Pentesting Portmapper": {
+    "ports": "111",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Portmapper"
+  },
+  "Pentesting Ident": {
+    "ports": "113",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/113-pentesting-ident",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Ident"
+  },
+  "Pentesting NTP": {
+    "ports": "123/udp",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ntp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_NTP"
+  },
+  "Pentesting MSRPC": {
+    "ports": "135",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/135-pentesting-msrpc",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_MSRPC"
+  },
+  "Pentesting NetBios": {
+    "ports": "137,138,139",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/137-138-139-pentesting-netbios",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_NetBios"
+  },
+  "Pentesting SMB": {
+    "ports": "139,445",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-smb",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_SMB"
+  },
+  "Pentesting IMAP": {
+    "ports": "143,993",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-imap",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_IMAP"
+  },
+  "Pentesting SNMP": {
+    "ports": "161,162,10161,10162/udp",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-snmp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_SNMP"
+  },
+  "7000 - Pentesting IRC": {
+    "ports": "194,6667,6660",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-irc",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/7000_-_Pentesting_IRC"
+  },
+  "Pentesting Check Point FireWall-1": {
+    "ports": "264",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Check_Point_FireWall-1"
+  },
+  "Pentesting LDAP": {
+    "ports": "389",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ldap",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_LDAP"
+  },
+  "Pentesting IPsec/IKE VPN": {
+    "ports": "500/udp",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_IPsec/IKE_VPN"
+  },
+  "Pentesting Modbus": {
+    "ports": "502",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-modbus",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Modbus"
+  },
+  "Pentesting Rexec": {
+    "ports": "512",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/512-pentesting-rexec",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Rexec"
+  },
+  "Pentesting Rlogin": {
+    "ports": "513",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-rlogin",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Rlogin"
+  },
+  "Pentesting Rsh": {
+    "ports": "514",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-rsh",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Rsh"
+  },
+  "Pentesting Line Printer Daemon (LPD)": {
+    "ports": "515",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Line_Printer_Daemon_LPD"
+  },
+  "Pentesting Apple Filing Protocol (AFP)": {
+    "ports": "548",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/584-pentesting-afp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Apple_Filing_Protocol_AFP"
+  },
+  "Pentesting RTSP": {
+    "ports": "554,8554",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/554-8554-pentesting-rtsp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_RTSP"
+  },
+  "IPMI": {
+    "ports": "623",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/IPMI"
+  },
+  "Internet Printing Protocol(IPP)": {
+    "ports": "631",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Internet_Printing_ProtocolIPP"
+  },
+  "Pentesting EPP": {
+    "ports": "700",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/700-pentesting-epp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_EPP"
+  },
+  "Pentesting Rsync": {
+    "ports": "873",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/873-pentesting-rsync",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Rsync"
+  },
+  "Pentesting Rusersd": {
+    "ports": "1026",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/1026-pentesting-rusersd",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Rusersd"
+  },
+  "Pentesting Socks": {
+    "ports": "1080",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/1080-pentesting-socks",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Socks"
+  },
+  "Pentesting Java RMI - RMI-IIOP": {
+    "ports": "1098",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Java_RMI_-_RMI-IIOP"
+  },
+  "Pentesting IBM MQ": {
+    "ports": "1414",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_IBM_MQ"
+  },
+  "Pentesting MSSQL - Microsoft SQL Server": {
+    "ports": "1433",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_MSSQL_-_Microsoft_SQL_Server"
+  },
+  "1529 - Pentesting Oracle TNS Listener": {
+    "ports": "1521,1522",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/1529_-_Pentesting_Oracle_TNS_Listener"
+  },
+  "Pentesting PPTP": {
+    "ports": "1723",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/1723-pentesting-pptp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_PPTP"
+  },
+  "Pentesting MQTT (Mosquitto)": {
+    "ports": "1883",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_MQTT_Mosquitto"
+  },
+  "Pentesting NFS Service": {
+    "ports": "2049",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_NFS_Service"
+  },
+  "Pentesting Compaq/HP Insight Manager": {
+    "ports": "2301,2381",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Compaq/HP_Insight_Manager"
+  },
+  "2375, 2376 Pentesting Docker": {
+    "ports": "2375",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/2375-pentesting-docker",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/2375_2376_Pentesting_Docker"
+  },
+  "Pentesting Squid": {
+    "ports": "3128",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3128-pentesting-squid",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Squid"
+  },
+  "Pentesting ISCSI": {
+    "ports": "3260",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3260-pentesting-iscsi",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_ISCSI"
+  },
+  "Pentesting SAPRouter": {
+    "ports": "3299",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3299-pentesting-saprouter",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_SAPRouter"
+  },
+  "Pentesting Mysql": {
+    "ports": "3306",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-mysql",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Mysql"
+  },
+  "Pentesting RDP": {
+    "ports": "3389",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-rdp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_RDP"
+  },
+  "Pentesting distcc": {
+    "ports": "3632",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3632-pentesting-distcc",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_distcc"
+  },
+  "Pentesting Subversion (svn server)": {
+    "ports": "3690",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Subversion_svn_server"
+  },
+  "Pentesting WS-Discovery": {
+    "ports": "3702",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3702-udp-pentesting-ws-discovery",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_WS-Discovery"
+  },
+  "Pentesting Erlang Port Mapper Daemon (epmd)": {
+    "ports": "4369",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Erlang_Port_Mapper_Daemon_epmd"
+  },
+  "Cisco Smart Install": {
+    "ports": "4786",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Cisco_Smart_Install"
+  },
+  "OPC Unified Architecture": {
+    "ports": "4840",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/OPC_Unified_Architecture"
+  },
+  "Pentesting Docker Registry": {
+    "ports": "5000",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Docker_Registry"
+  },
+  "SD": {
+    "ports": "5353",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/SD"
+  },
+  "Pentesting Postgresql": {
+    "ports": "5432,5433",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-postgresql",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Postgresql"
+  },
+  "Pentesting Redshift": {
+    "ports": "5439",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5439-pentesting-redshift",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Redshift"
+  },
+  "Android Debug Bridge": {
+    "ports": "5555",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Android_Debug_Bridge"
+  },
+  "Pentesting Kibana": {
+    "ports": "5601",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5601-pentesting-kibana",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Kibana"
+  },
+  "Pentesting AMQP": {
+    "ports": "5671,5672",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5671-5672-pentesting-amqp",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_AMQP"
+  },
+  "Pentesting VNC": {
+    "ports": "5800,5801,5900,5901",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-vnc",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_VNC"
+  },
+  "Pentesting CouchDB": {
+    "ports": "5984,6984",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5984-pentesting-couchdb",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_CouchDB"
+  },
+  "Pentesting WinRM": {
+    "ports": "5985,5986",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5985-5986-pentesting-winrm",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_WinRM"
+  },
+  "Pentesting OMI": {
+    "ports": "5985,5986",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5985-5986-pentesting-omi",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_OMI"
+  },
+  "Pentesting X11": {
+    "ports": "6000",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/6000-pentesting-x11",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_X11"
+  },
+  "Pentesting Redis": {
+    "ports": "6379",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Redis"
+  },
+  "Pentesting Apache JServ Protocol (AJP)": {
+    "ports": "8009",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Apache_JServ_Protocol_AJP"
+  },
+  "Pentesting InfluxDB": {
+    "ports": "8086",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/8086-pentesting-influxdb",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_InfluxDB"
+  },
+  "Pentesting Splunkd": {
+    "ports": "8089",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Splunkd"
+  },
+  "Pentesting Bitcoin": {
+    "ports": "8333,18333,38333,18444",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/8333-18333-38333-18444-pentesting-bitcoin",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Bitcoin"
+  },
+  "Pentesting FastCGI": {
+    "ports": "9000",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/9000-pentesting-fastcgi",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_FastCGI"
+  },
+  "Pentesting HSQLDB": {
+    "ports": "9001",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/9001-pentesting-hsqldb",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_HSQLDB"
+  },
+  "Pentesting Cassandra": {
+    "ports": "9042",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Cassandra"
+  },
+  "Pentesting Raw Printing (JetDirect, AppSocket, PDL-datastream)": {
+    "ports": "9100",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Raw_Printing_JetDirect_AppSocket_PDL-datastream"
+  },
+  "Pentesting Elasticsearch": {
+    "ports": "9200",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/9200-pentesting-elasticsearch",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Elasticsearch"
+  },
+  "Pentesting Network Data Management Protocol (ndmp)": {
+    "ports": "10000",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Network_Data_Management_Protocol_ndmp"
+  },
+  "Pentesting Memcache": {
+    "ports": "11211",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Memcache"
+  },
+  "Pentesting RabbitMQ Management": {
+    "ports": "15672",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_RabbitMQ_Management"
+  },
+  "Pentesting GlusterFS": {
+    "ports": "24007,24008,24009,49152",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/24007-24008-24009-49152-pentesting-glusterfs",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_GlusterFS"
+  },
+  "Pentesting MongoDB": {
+    "ports": "27017,27018",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_MongoDB"
+  },
+  "Pentesting Tiller (Helm)": {
+    "ports": "44134",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Tiller_Helm"
+  },
+  "Pentesting EthernetIP": {
+    "ports": "44818",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_EthernetIP"
+  },
+  "Pentesting BACNet": {
+    "ports": "47808/udp",
+    "link": "",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_BACNet"
+  },
+  "Pentesting Hadoop": {
+    "ports": "50030,50060,50070,50075,50090",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/50030-50060-50070-50075-50090-pentesting-hadoop",
+    "folder_path": "C:/Users/james/PycharmProjects/JSONMakerWebTwo/NetTestFoldRepo/Pentesting_Hadoop"
+  }
+}

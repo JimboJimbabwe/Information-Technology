@@ -1,0 +1,378 @@
+{
+  "Pentesting JDWP - Java Debug Wire Protocol": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting Printers": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting SAP": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting VoIP": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting Remote GdbServer": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting Echo": {
+    "ports": "7/tcp",
+    "link": ""
+  },
+  "Pentesting FTP": {
+    "ports": "21",
+    "link": ""
+  },
+  "Pentesting SSH/SFTP": {
+    "ports": "22",
+    "link": ""
+  },
+  "Pentesting Telnet": {
+    "ports": "23",
+    "link": ""
+  },
+  "Pentesting SMTP/s": {
+    "ports": "25,465,587",
+    "link": ""
+  },
+  "Pentesting WHOIS": {
+    "ports": "43",
+    "link": ""
+  },
+  "Pentesting TACACS+": {
+    "ports": "49",
+    "link": ""
+  },
+  "Pentesting DNS": {
+    "ports": "53",
+    "link": ""
+  },
+  "tracker": {
+    "ports": "69",
+    "link": ""
+  },
+  "Pentesting Finger": {
+    "ports": "79",
+    "link": ""
+  },
+  "Pentesting Web Methodology": {
+    "ports": "80,443",
+    "link": ""
+  },
+  "Pentesting Kerberos": {
+    "ports": "88",
+    "link": ""
+  },
+  "Pentesting POP": {
+    "ports": "110,995",
+    "link": ""
+  },
+  "Pentesting Portmapper": {
+    "ports": "111",
+    "link": ""
+  },
+  "Pentesting Ident": {
+    "ports": "113",
+    "link": ""
+  },
+  "Pentesting NTP": {
+    "ports": "123/udp",
+    "link": ""
+  },
+  "Pentesting MSRPC": {
+    "ports": "135",
+    "link": ""
+  },
+  "Pentesting NetBios": {
+    "ports": "137,138,139",
+    "link": ""
+  },
+  "Pentesting SMB": {
+    "ports": "139,445",
+    "link": ""
+  },
+  "Pentesting IMAP": {
+    "ports": "143,993",
+    "link": ""
+  },
+  "Pentesting SNMP": {
+    "ports": "161,162,10161,10162/udp",
+    "link": ""
+  },
+  "7000 - Pentesting IRC": {
+    "ports": "194,6667,6660",
+    "link": ""
+  },
+  "Pentesting Check Point FireWall-1": {
+    "ports": "264",
+    "link": ""
+  },
+  "Pentesting LDAP": {
+    "ports": "389",
+    "link": ""
+  },
+  "Pentesting IPsec/IKE VPN": {
+    "ports": "500/udp",
+    "link": ""
+  },
+  "Pentesting Modbus": {
+    "ports": "502",
+    "link": ""
+  },
+  "Pentesting Rexec": {
+    "ports": "512",
+    "link": ""
+  },
+  "Pentesting Rlogin": {
+    "ports": "513",
+    "link": ""
+  },
+  "Pentesting Rsh": {
+    "ports": "514",
+    "link": ""
+  },
+  "Pentesting Line Printer Daemon (LPD)": {
+    "ports": "515",
+    "link": ""
+  },
+  "Pentesting Apple Filing Protocol (AFP)": {
+    "ports": "548",
+    "link": ""
+  },
+  "Pentesting RTSP": {
+    "ports": "554,8554",
+    "link": ""
+  },
+  "IPMI": {
+    "ports": "623",
+    "link": ""
+  },
+  "Internet Printing Protocol(IPP)": {
+    "ports": "631",
+    "link": ""
+  },
+  "Pentesting EPP": {
+    "ports": "700",
+    "link": ""
+  },
+  "Pentesting Rsync": {
+    "ports": "873",
+    "link": ""
+  },
+  "Pentesting Rusersd": {
+    "ports": "1026",
+    "link": ""
+  },
+  "Pentesting Socks": {
+    "ports": "1080",
+    "link": ""
+  },
+  "Pentesting Java RMI - RMI-IIOP": {
+    "ports": "1098",
+    "link": ""
+  },
+  "Pentesting IBM MQ": {
+    "ports": "1414",
+    "link": ""
+  },
+  "Pentesting MSSQL - Microsoft SQL Server": {
+    "ports": "1433",
+    "link": ""
+  },
+  "1529 - Pentesting Oracle TNS Listener": {
+    "ports": "1521,1522",
+    "link": ""
+  },
+  "Pentesting PPTP": {
+    "ports": "1723",
+    "link": ""
+  },
+  "Pentesting MQTT (Mosquitto)": {
+    "ports": "1883",
+    "link": ""
+  },
+  "Pentesting NFS Service": {
+    "ports": "2049",
+    "link": ""
+  },
+  "Pentesting Compaq/HP Insight Manager": {
+    "ports": "2301,2381",
+    "link": ""
+  },
+  "2375, 2376 Pentesting Docker": {
+    "ports": "2375",
+    "link": ""
+  },
+  "Pentesting Squid": {
+    "ports": "3128",
+    "link": ""
+  },
+  "Pentesting ISCSI": {
+    "ports": "3260",
+    "link": ""
+  },
+  "Pentesting SAPRouter": {
+    "ports": "3299",
+    "link": ""
+  },
+  "Pentesting Mysql": {
+    "ports": "3306",
+    "link": ""
+  },
+  "Pentesting RDP": {
+    "ports": "3389",
+    "link": ""
+  },
+  "Pentesting distcc": {
+    "ports": "3632",
+    "link": ""
+  },
+  "Pentesting Subversion (svn server)": {
+    "ports": "3690",
+    "link": ""
+  },
+  "Pentesting WS-Discovery": {
+    "ports": "3702",
+    "link": ""
+  },
+  "Pentesting Erlang Port Mapper Daemon (epmd)": {
+    "ports": "4369",
+    "link": ""
+  },
+  "Cisco Smart Install": {
+    "ports": "4786",
+    "link": ""
+  },
+  "OPC Unified Architecture": {
+    "ports": "4840",
+    "link": ""
+  },
+  "Pentesting Docker Registry": {
+    "ports": "5000",
+    "link": ""
+  },
+  "SD": {
+    "ports": "5353",
+    "link": ""
+  },
+  "Pentesting Postgresql": {
+    "ports": "5432,5433",
+    "link": ""
+  },
+  "Pentesting Redshift": {
+    "ports": "5439",
+    "link": ""
+  },
+  "Android Debug Bridge": {
+    "ports": "5555",
+    "link": ""
+  },
+  "Pentesting Kibana": {
+    "ports": "5601",
+    "link": ""
+  },
+  "Pentesting AMQP": {
+    "ports": "5671,5672",
+    "link": ""
+  },
+  "Pentesting VNC": {
+    "ports": "5800,5801,5900,5901",
+    "link": ""
+  },
+  "Pentesting CouchDB": {
+    "ports": "5984,6984",
+    "link": ""
+  },
+  "Pentesting WinRM": {
+    "ports": "5985,5986",
+    "link": ""
+  },
+  "Pentesting OMI": {
+    "ports": "5985,5986",
+    "link": ""
+  },
+  "Pentesting X11": {
+    "ports": "6000",
+    "link": ""
+  },
+  "Pentesting Redis": {
+    "ports": "6379",
+    "link": ""
+  },
+  "Pentesting Apache JServ Protocol (AJP)": {
+    "ports": "8009",
+    "link": ""
+  },
+  "Pentesting InfluxDB": {
+    "ports": "8086",
+    "link": ""
+  },
+  "Pentesting Splunkd": {
+    "ports": "8089",
+    "link": ""
+  },
+  "Pentesting Bitcoin": {
+    "ports": "8333,18333,38333,18444",
+    "link": ""
+  },
+  "Pentesting FastCGI": {
+    "ports": "9000",
+    "link": ""
+  },
+  "Pentesting HSQLDB": {
+    "ports": "9001",
+    "link": ""
+  },
+  "Pentesting Cassandra": {
+    "ports": "9042",
+    "link": ""
+  },
+  "Pentesting Raw Printing (JetDirect, AppSocket, PDL-datastream)": {
+    "ports": "9100",
+    "link": ""
+  },
+  "Pentesting Elasticsearch": {
+    "ports": "9200",
+    "link": ""
+  },
+  "Pentesting Network Data Management Protocol (ndmp)": {
+    "ports": "10000",
+    "link": ""
+  },
+  "Pentesting Memcache": {
+    "ports": "11211",
+    "link": ""
+  },
+  "Pentesting RabbitMQ Management": {
+    "ports": "15672",
+    "link": ""
+  },
+  "Pentesting GlusterFS": {
+    "ports": "24007,24008,24009,49152",
+    "link": ""
+  },
+  "Pentesting MongoDB": {
+    "ports": "27017,27018",
+    "link": ""
+  },
+  "Pentesting Tiller (Helm)": {
+    "ports": "44134",
+    "link": ""
+  },
+  "Pentesting EthernetIP": {
+    "ports": "44818",
+    "link": ""
+  },
+  "Pentesting BACNet": {
+    "ports": "47808/udp",
+    "link": ""
+  },
+  "Pentesting Hadoop": {
+    "ports": "50030,50060,50070,50075,50090",
+    "link": ""
+  }
+}

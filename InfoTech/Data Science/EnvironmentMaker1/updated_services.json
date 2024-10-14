@@ -1,0 +1,378 @@
+{
+  "Pentesting JDWP - Java Debug Wire Protocol": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting Printers": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting SAP": {
+    "ports": "",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-sap"
+  },
+  "Pentesting VoIP": {
+    "ports": "",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-voip"
+  },
+  "Pentesting Remote GdbServer": {
+    "ports": "",
+    "link": ""
+  },
+  "Pentesting Echo": {
+    "ports": "7/tcp",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/7-tcp-udp-pentesting-echo"
+  },
+  "Pentesting FTP": {
+    "ports": "21",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ftp"
+  },
+  "Pentesting SSH/SFTP": {
+    "ports": "22",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ssh"
+  },
+  "Pentesting Telnet": {
+    "ports": "23",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-telnet"
+  },
+  "Pentesting SMTP/s": {
+    "ports": "25,465,587",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-smtp"
+  },
+  "Pentesting WHOIS": {
+    "ports": "43",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/43-pentesting-whois"
+  },
+  "Pentesting TACACS+": {
+    "ports": "49",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/49-pentesting-tacacs+"
+  },
+  "Pentesting DNS": {
+    "ports": "53",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-dns"
+  },
+  "tracker": {
+    "ports": "69",
+    "link": ""
+  },
+  "Pentesting Finger": {
+    "ports": "79",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-finger"
+  },
+  "Pentesting Web Methodology": {
+    "ports": "80,443",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-web"
+  },
+  "Pentesting Kerberos": {
+    "ports": "88",
+    "link": ""
+  },
+  "Pentesting POP": {
+    "ports": "110,995",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-pop"
+  },
+  "Pentesting Portmapper": {
+    "ports": "111",
+    "link": ""
+  },
+  "Pentesting Ident": {
+    "ports": "113",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/113-pentesting-ident"
+  },
+  "Pentesting NTP": {
+    "ports": "123/udp",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ntp"
+  },
+  "Pentesting MSRPC": {
+    "ports": "135",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/135-pentesting-msrpc"
+  },
+  "Pentesting NetBios": {
+    "ports": "137,138,139",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/137-138-139-pentesting-netbios"
+  },
+  "Pentesting SMB": {
+    "ports": "139,445",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-smb"
+  },
+  "Pentesting IMAP": {
+    "ports": "143,993",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-imap"
+  },
+  "Pentesting SNMP": {
+    "ports": "161,162,10161,10162/udp",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-snmp"
+  },
+  "7000 - Pentesting IRC": {
+    "ports": "194,6667,6660",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-irc"
+  },
+  "Pentesting Check Point FireWall-1": {
+    "ports": "264",
+    "link": ""
+  },
+  "Pentesting LDAP": {
+    "ports": "389",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-ldap"
+  },
+  "Pentesting IPsec/IKE VPN": {
+    "ports": "500/udp",
+    "link": ""
+  },
+  "Pentesting Modbus": {
+    "ports": "502",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-modbus"
+  },
+  "Pentesting Rexec": {
+    "ports": "512",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/512-pentesting-rexec"
+  },
+  "Pentesting Rlogin": {
+    "ports": "513",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-rlogin"
+  },
+  "Pentesting Rsh": {
+    "ports": "514",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-rsh"
+  },
+  "Pentesting Line Printer Daemon (LPD)": {
+    "ports": "515",
+    "link": ""
+  },
+  "Pentesting Apple Filing Protocol (AFP)": {
+    "ports": "548",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/584-pentesting-afp"
+  },
+  "Pentesting RTSP": {
+    "ports": "554,8554",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/554-8554-pentesting-rtsp"
+  },
+  "IPMI": {
+    "ports": "623",
+    "link": ""
+  },
+  "Internet Printing Protocol(IPP)": {
+    "ports": "631",
+    "link": ""
+  },
+  "Pentesting EPP": {
+    "ports": "700",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/700-pentesting-epp"
+  },
+  "Pentesting Rsync": {
+    "ports": "873",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/873-pentesting-rsync"
+  },
+  "Pentesting Rusersd": {
+    "ports": "1026",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/1026-pentesting-rusersd"
+  },
+  "Pentesting Socks": {
+    "ports": "1080",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/1080-pentesting-socks"
+  },
+  "Pentesting Java RMI - RMI-IIOP": {
+    "ports": "1098",
+    "link": ""
+  },
+  "Pentesting IBM MQ": {
+    "ports": "1414",
+    "link": ""
+  },
+  "Pentesting MSSQL - Microsoft SQL Server": {
+    "ports": "1433",
+    "link": ""
+  },
+  "1529 - Pentesting Oracle TNS Listener": {
+    "ports": "1521,1522",
+    "link": ""
+  },
+  "Pentesting PPTP": {
+    "ports": "1723",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/1723-pentesting-pptp"
+  },
+  "Pentesting MQTT (Mosquitto)": {
+    "ports": "1883",
+    "link": ""
+  },
+  "Pentesting NFS Service": {
+    "ports": "2049",
+    "link": ""
+  },
+  "Pentesting Compaq/HP Insight Manager": {
+    "ports": "2301,2381",
+    "link": ""
+  },
+  "2375, 2376 Pentesting Docker": {
+    "ports": "2375",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/2375-pentesting-docker"
+  },
+  "Pentesting Squid": {
+    "ports": "3128",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3128-pentesting-squid"
+  },
+  "Pentesting ISCSI": {
+    "ports": "3260",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3260-pentesting-iscsi"
+  },
+  "Pentesting SAPRouter": {
+    "ports": "3299",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3299-pentesting-saprouter"
+  },
+  "Pentesting Mysql": {
+    "ports": "3306",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-mysql"
+  },
+  "Pentesting RDP": {
+    "ports": "3389",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-rdp"
+  },
+  "Pentesting distcc": {
+    "ports": "3632",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3632-pentesting-distcc"
+  },
+  "Pentesting Subversion (svn server)": {
+    "ports": "3690",
+    "link": ""
+  },
+  "Pentesting WS-Discovery": {
+    "ports": "3702",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/3702-udp-pentesting-ws-discovery"
+  },
+  "Pentesting Erlang Port Mapper Daemon (epmd)": {
+    "ports": "4369",
+    "link": ""
+  },
+  "Cisco Smart Install": {
+    "ports": "4786",
+    "link": ""
+  },
+  "OPC Unified Architecture": {
+    "ports": "4840",
+    "link": ""
+  },
+  "Pentesting Docker Registry": {
+    "ports": "5000",
+    "link": ""
+  },
+  "SD": {
+    "ports": "5353",
+    "link": ""
+  },
+  "Pentesting Postgresql": {
+    "ports": "5432,5433",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-postgresql"
+  },
+  "Pentesting Redshift": {
+    "ports": "5439",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5439-pentesting-redshift"
+  },
+  "Android Debug Bridge": {
+    "ports": "5555",
+    "link": ""
+  },
+  "Pentesting Kibana": {
+    "ports": "5601",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5601-pentesting-kibana"
+  },
+  "Pentesting AMQP": {
+    "ports": "5671,5672",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5671-5672-pentesting-amqp"
+  },
+  "Pentesting VNC": {
+    "ports": "5800,5801,5900,5901",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/pentesting-vnc"
+  },
+  "Pentesting CouchDB": {
+    "ports": "5984,6984",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5984-pentesting-couchdb"
+  },
+  "Pentesting WinRM": {
+    "ports": "5985,5986",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5985-5986-pentesting-winrm"
+  },
+  "Pentesting OMI": {
+    "ports": "5985,5986",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/5985-5986-pentesting-omi"
+  },
+  "Pentesting X11": {
+    "ports": "6000",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/6000-pentesting-x11"
+  },
+  "Pentesting Redis": {
+    "ports": "6379",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/6379-pentesting-redis"
+  },
+  "Pentesting Apache JServ Protocol (AJP)": {
+    "ports": "8009",
+    "link": ""
+  },
+  "Pentesting InfluxDB": {
+    "ports": "8086",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/8086-pentesting-influxdb"
+  },
+  "Pentesting Splunkd": {
+    "ports": "8089",
+    "link": ""
+  },
+  "Pentesting Bitcoin": {
+    "ports": "8333,18333,38333,18444",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/8333-18333-38333-18444-pentesting-bitcoin"
+  },
+  "Pentesting FastCGI": {
+    "ports": "9000",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/9000-pentesting-fastcgi"
+  },
+  "Pentesting HSQLDB": {
+    "ports": "9001",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/9001-pentesting-hsqldb"
+  },
+  "Pentesting Cassandra": {
+    "ports": "9042",
+    "link": ""
+  },
+  "Pentesting Raw Printing (JetDirect, AppSocket, PDL-datastream)": {
+    "ports": "9100",
+    "link": ""
+  },
+  "Pentesting Elasticsearch": {
+    "ports": "9200",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/9200-pentesting-elasticsearch"
+  },
+  "Pentesting Network Data Management Protocol (ndmp)": {
+    "ports": "10000",
+    "link": ""
+  },
+  "Pentesting Memcache": {
+    "ports": "11211",
+    "link": ""
+  },
+  "Pentesting RabbitMQ Management": {
+    "ports": "15672",
+    "link": ""
+  },
+  "Pentesting GlusterFS": {
+    "ports": "24007,24008,24009,49152",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/24007-24008-24009-49152-pentesting-glusterfs"
+  },
+  "Pentesting MongoDB": {
+    "ports": "27017,27018",
+    "link": ""
+  },
+  "Pentesting Tiller (Helm)": {
+    "ports": "44134",
+    "link": ""
+  },
+  "Pentesting EthernetIP": {
+    "ports": "44818",
+    "link": ""
+  },
+  "Pentesting BACNet": {
+    "ports": "47808/udp",
+    "link": ""
+  },
+  "Pentesting Hadoop": {
+    "ports": "50030,50060,50070,50075,50090",
+    "link": "https://book.hacktricks.xyz/network-services-pentesting/50030-50060-50070-50075-50090-pentesting-hadoop"
+  }
+}
